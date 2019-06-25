@@ -1,0 +1,26 @@
+{
+  "name": "node_practice",
+  "version": "1.0.0",
+  "description": "Node Applications",
+  "main": "node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yogesh",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "formidable": "^1.2.1",
+    "mailer": "^0.6.7",
+    "mong": "^2.0.2",
+    "mongodb": "^3.2.7",
+    "mongoose": "^5.6.1",
+    "mysql": "^2.17.1",
+    "node": "^12.4.0",
+    "node-mailer": "^0.1.1",
+    "nodemon": "^1.19.1",
+    "supervisor": "^0.12.0",
+    "upper-case": "^1.1.3"
+  }
+}
